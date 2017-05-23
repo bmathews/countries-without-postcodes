@@ -1,11 +1,11 @@
 {
   "name": "countries-without-postcodes",
   "version": "1.0.0",
-  "description": "",
+  "description": "JS object containing county codes without postcodes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Brian Mathews <spoonart@gmail.com>",
   "license": "MIT"
 }
