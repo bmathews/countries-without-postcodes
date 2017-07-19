@@ -15,5 +15,5 @@ const countries = require('countries-without-postcodes');
 const hasUS = !!countries['US']; // false
 
 // Bahamas does not
-const hasBH = !!countries['BH']; // true
+const hasBH = !!countries['BS']; // true
 ```
