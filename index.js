@@ -1,4 +1,4 @@
-const map = {
+var map = {
   'AG': true,
   'AW': true,
   'BS': true,
