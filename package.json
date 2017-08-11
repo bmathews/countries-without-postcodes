@@ -4,7 +4,6 @@
   "description": "JS object containing county codes without postcodes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Brian Mathews <spoonart@gmail.com>",
   "license": "MIT"
