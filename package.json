@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "JS object containing county codes without postcodes",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Brian Mathews <spoonart@gmail.com>",
   "license": "MIT"
 }
